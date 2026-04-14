@@ -222,7 +222,7 @@ GitHub: https://github.com/ParikhSrujan
 </br>
 LinkedIn: https://www.linkedin.com/in/srujan-parikh-9a39222b1
 </br>
-Demo : sruutaskmanager.netlify.app
+Demo : viox-chatbotui.netlify.app
 
 ## 📄 License
 
