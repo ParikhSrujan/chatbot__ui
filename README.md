@@ -219,7 +219,9 @@ Please follow [Conventional Commits](https://www.conventionalcommits.org/) for c
 Srujan Parikh
 
 GitHub: https://github.com/ParikhSrujan
+</br>
 LinkedIn: https://www.linkedin.com/in/srujan-parikh-9a39222b1
+</br>
 Portfolio: sruutaskmanager.netlify.app
 
 ## 📄 License
