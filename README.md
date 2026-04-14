@@ -15,10 +15,8 @@
 
 <br />
 ## 📸 Preview
-## 📸 Preview
 
-![Task Manager Preview](<src/assets/chatbotui_screenshot(2).png>)
-<br />
+![Task Manager Preview](src/assets/chatbotui.png)
 
 ---
 
