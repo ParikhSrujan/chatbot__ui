@@ -13,6 +13,13 @@
 
 </div>
 
+<br />
+## 📸 Preview
+## 📸 Preview
+
+![Task Manager Preview](<src/assets/chatbotui_screenshot(2).png>)
+<br />
+
 ---
 
 ## 📌 Overview
@@ -39,13 +46,13 @@ The project is structured to be easily extensible — swap in any AI backend (Ge
 
 ## 🛠️ Tech Stack
 
-| Category | Technology |
-|---|---|
-| Frontend Framework | React 19.2.4 |
-| Build Tool | Vite 8.0.1 |
-| Styling | CSS3 with Responsive Design |
-| Linting | ESLint with React Rules |
-| Package Manager | npm |
+| Category           | Technology                  |
+| ------------------ | --------------------------- |
+| Frontend Framework | React 19.2.4                |
+| Build Tool         | Vite 8.0.1                  |
+| Styling            | CSS3 with Responsive Design |
+| Linting            | ESLint with React Rules     |
+| Package Manager    | npm                         |
 
 ---
 
@@ -101,12 +108,12 @@ Open [http://localhost:5173](http://localhost:5173) in your browser.
 
 ## 📦 Scripts
 
-| Command | Description |
-|---|---|
-| `npm run dev` | Start dev server with hot module replacement |
-| `npm run build` | Create optimized production build |
-| `npm run preview` | Preview production build locally |
-| `npm run lint` | Run ESLint checks |
+| Command           | Description                                  |
+| ----------------- | -------------------------------------------- |
+| `npm run dev`     | Start dev server with hot module replacement |
+| `npm run build`   | Create optimized production build            |
+| `npm run preview` | Preview production build locally             |
+| `npm run lint`    | Run ESLint checks                            |
 
 ---
 
@@ -120,13 +127,13 @@ User input is processed through a keyword-matching pipeline inside `ChatContaine
 
 **Sample keyword mappings:**
 
-| Keywords | Response Domain |
-|---|---|
-| `trip`, `travel`, `vacation` | ✈️ Travel advice & destination tips |
-| `food`, `eat`, `recipe` | 🍕 Meal ideas & cooking help |
-| `ai`, `machine learning`, `tech` | 💻 Technology explainers |
-| `hi`, `hello`, `hey` | 💬 Greeting & casual conversation |
-| `study`, `learn`, `homework` | 📚 Study tips & learning resources |
+| Keywords                         | Response Domain                     |
+| -------------------------------- | ----------------------------------- |
+| `trip`, `travel`, `vacation`     | ✈️ Travel advice & destination tips |
+| `food`, `eat`, `recipe`          | 🍕 Meal ideas & cooking help        |
+| `ai`, `machine learning`, `tech` | 💻 Technology explainers            |
+| `hi`, `hello`, `hey`             | 💬 Greeting & casual conversation   |
+| `study`, `learn`, `homework`     | 📚 Study tips & learning resources  |
 
 ---
 
@@ -168,17 +175,20 @@ Extend the `getBotReply()` function in `ChatContainer.jsx` with new keyword-resp
 ## 🐛 Troubleshooting
 
 **Port already in use?**
+
 ```bash
 npm run dev -- --port 3000
 ```
 
 **Build failing?**
+
 ```bash
 rm -rf node_modules package-lock.json
 npm install && npm run build
 ```
 
 **Linting errors?**
+
 ```bash
 npm run lint
 ```
