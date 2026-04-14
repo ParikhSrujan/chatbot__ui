@@ -215,6 +215,13 @@ Please follow [Conventional Commits](https://www.conventionalcommits.org/) for c
 
 ---
 
+👤 Author
+Srujan Parikh
+
+GitHub: https://github.com/ParikhSrujan
+LinkedIn: https://www.linkedin.com/in/srujan-parikh-9a39222b1
+Portfolio: sruutaskmanager.netlify.app
+
 ## 📄 License
 
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
