@@ -222,7 +222,7 @@ GitHub: https://github.com/ParikhSrujan
 </br>
 LinkedIn: https://www.linkedin.com/in/srujan-parikh-9a39222b1
 </br>
-Portfolio: sruutaskmanager.netlify.app
+Demo : sruutaskmanager.netlify.app
 
 ## 📄 License
 
